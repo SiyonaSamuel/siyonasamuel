@@ -1,7 +1,8 @@
 ### Hello there, my name is Siyona! 👋 
 ### I'm a graduate student at Columbia University in the Quantitative Methods in Social Sciences (QMSS) program. 
 
-![HeadshotGitHub](https://user-images.githubusercontent.com/94492402/144898506-26d004ca-4265-4cd1-89b1-9b9537063ecd.jpeg)
+![HeadshotGitHub (1)](https://user-images.githubusercontent.com/94492402/144899220-9685d5fe-8c50-4141-815b-3fcdb4d8bf97.jpeg)
+
 
 <!--
 **SiyonaSamuel/siyonasamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
