@@ -32,5 +32,4 @@ Worked with Professor McClendon to analyze survey data from Benin to gauge the e
 
 
 
-**SiyonaSamuel/siyonasamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
