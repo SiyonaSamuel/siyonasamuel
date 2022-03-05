@@ -17,11 +17,12 @@ I'm a graduate student at Columbia University in the Quantitative Methods in Soc
 - 👾 GIS
 
 ### Previous research projects/experience: 
-📎 __Paper Comparing Akhil Gupta and Amarty Sen on the Topic of Foucault & Agamben's 'bio-politic'__ 
-*How A State Killed Its Citizens*
+📎 __Paper Comparing Akhil Gupta and Amarty Sen on the Topic of Foucault & Agamben's 'bio-politic'__
+*How A State Killed Its Citizens* [FinalPaper_SiyonasamuelGIT.pdf](https://github.com/SiyonaSamuel/siyonasamuel/files/8189976/FinalPaper_SiyonasamuelGIT.pdf)
 
 📎 __Paper on Gender & Male Hegemony in South East Asia__ 
-*For the Male Gaze: Shifting Female Hegemony Under Capitalism and Globalization*
+*For the Male Gaze: Shifting Female Hegemony Under Capitalism and Globalization* [ResponsePaper2_SiyonaSamuel.pdf](https://github.com/SiyonaSamuel/siyonasamuel/files/8189974/ResponsePaper2_SiyonaSamuel.pdf)
+
 
 📎 __Undergraduate Thesis at NYU (in fulfillment of the International Relations Honors Program)__
 *Can Neighbourhoods Place Women in Office?*
